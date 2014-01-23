@@ -28,4 +28,5 @@ The testbench output matched the Truth Table
 
 
 **C3C Hayden - Helped with how to handle a K-map with an isolated 1 or 0**
+
 **C3C Pluger - we checked our answers and logic together**
