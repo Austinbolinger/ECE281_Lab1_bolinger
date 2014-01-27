@@ -8,7 +8,7 @@
 -- Project Name: Lab1_bolinger
 -- Target Devices: Nexys 2
 -- Tool versions: 14.2
--- Description: 
+-- Description: 3 bit
 --
 -- Dependencies: 
 --

@@ -1,14 +1,14 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company: USAFA
+-- Engineer: Austin Bolinger
 --
 -- Create Date:   22:43:15 01/22/2014
--- Design Name:   
+-- Design Name:   Lab 1 test
 -- Module Name:   C:/Users/C16Austin.Bolinger/Desktop/ECE281/Lab1_bolinger/Lab1_testbench_bolinger.vhd
 -- Project Name:  Lab1_bolinger
--- Target Device:  
--- Tool versions:  
--- Description:   
+-- Target Device:  Nexys 2
+-- Tool versions:  2
+-- Description:   3 bit
 -- 
 -- VHDL Test Bench Created by ISE for module: Lab1_bolinger
 -- 
