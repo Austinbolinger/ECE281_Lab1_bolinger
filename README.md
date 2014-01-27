@@ -5,7 +5,7 @@ Lab1_23JAN14
 
 
 #Truth Table 
-"https://github.com/Austinbolinger/ECE281_Lab1_bolinger/blob/master/Lab1_truthtable.JPG" 
+![alt text](https://github.com/Austinbolinger/ECE281_Lab1_bolinger/blob/master/Lab1_truthtable.JPG "Logo Title Text 1") 
 
 Here is the K-map and logic designs for SOP
 "https://github.com/Austinbolinger/ECE281_Lab1_bolinger/blob/master/Lab1_sop.JPG"
