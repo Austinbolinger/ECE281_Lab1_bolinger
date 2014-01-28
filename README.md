@@ -27,8 +27,10 @@ The testbench output matched the Truth Table line by line. Each output matched m
 
 ####Test
 three bit was tested in class
+8 bit was tested around 1500 after class
 
 #####Documentation
 **C3C Hayden - Helped with how to handle a K-map with an isolated 1 or 0**
 
 **C3C Pluger - we checked our answers and logic together**
+**C3C Pluger - walked me through the coding of signals for 8 bit. I was having a bunch of trouble with casting in language**
